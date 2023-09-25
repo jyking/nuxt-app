@@ -1,7 +1,8 @@
 <template>
   <div>
-    <h1 class="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <h1>Welcome to the homepage</h1>
+    <AppAlert />
+    <app2 />
+    <Sidebar />
   </div>
 </template>
