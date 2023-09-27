@@ -1,10 +1,9 @@
 <template>
-    <Html class="h-full">
-        <Body class="flex h-full"></Body>
-    </Html>
+    <Html class="h-full"></Html>
+    <Body class="flex h-full"></Body>
     
     <div class="flex flex-row h-full bg-gray-300 text-gray-600">
-        <leftSidebar />
+        <LeftSidebar />
         <div class="body ">
             <div class="header">网址导航</div>
             <div class="main ">333</div>
