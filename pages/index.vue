@@ -4,9 +4,9 @@
     
     <div class="flex flex-row h-full bg-gray-300 text-gray-600">
         <LeftSidebar />
-        <div class="body ">
+        <div class="body w-full">
             <div class="header">网址导航</div>
-            <div class="main ">333</div>
+            <div class="main ">main</div>
         </div>
     </div>
 </template>
